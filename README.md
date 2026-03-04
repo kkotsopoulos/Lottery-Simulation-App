@@ -1,4 +1,4 @@
-# Lotto Simulation Web App 🎲
+# Lotto Simulation Web App 
 
 A responsive, single-page web application (SPA) that simulates a lottery/lotto game. Built with **Vue.js**, this project features interactive game logic, user authentication interfaces, and draw history tracking.
 
